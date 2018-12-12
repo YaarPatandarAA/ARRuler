@@ -12,4 +12,4 @@ Measure real world objects with a simple tap and place of a dot. Tap anywhere an
 * Compute distance in 3D Plane between two objects
 
 ## Finished App
-<img src="" alt="finished" width="40%">
+<img src="finishedApp.gif" alt="finished" width="40%">
